@@ -14,5 +14,5 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Tour Of Heroes';
+  title = 'tour-of-heroes';
 }
